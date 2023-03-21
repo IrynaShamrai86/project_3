@@ -1,0 +1,9 @@
+header {
+  background-color: #161616;
+}
+
+header .header-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

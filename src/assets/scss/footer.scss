@@ -1,0 +1,22 @@
+footer {
+  background-color: #161616;
+  padding: 50px 15px 10px;
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .copyright {
+    color: #4f4f4f;
+    text-align: center;
+    font-size: 14px;
+
+    .owner,
+    .developer {
+      color: #4f4f4f;
+      text-decoration: none;
+    }
+  }
+}
